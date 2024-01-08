@@ -2,7 +2,7 @@
 
 ![Aquapulse Logo](/Screenshots/logo.png)
 
-Aquapulse is an intelligent irrigation system designed to optimize water usage in agriculture. It utilizes Arduino and NodeMCU microcontrollers to collect and manage data efficiently.
+Aquapulse is an intelligent irrigation system designed to optimize water usage in agriculture. It utilizes Arduino and NodeMCU microcontrollers to collect and manage data efficiently. Furthermore, it provides an interactive User Portal to visualize the operations and control the entire process.
 
 ## System Architecture
 
