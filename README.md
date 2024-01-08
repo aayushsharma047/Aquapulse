@@ -48,4 +48,4 @@ Aquapulse is an intelligent irrigation system designed to optimize water usage i
 6. Run the System:
     Start Arduino, NodeMCU, Flask server, and React portal. Make sure the assembly is as given below
 
-![Assembly](/Diagrams/Assembly Diagram.png)
+![Assembly](/Diagrams/Assembly_Diagram.png)
